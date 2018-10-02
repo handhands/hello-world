@@ -1,8 +1,10 @@
-# coding=utf-8
+﻿# coding=utf-8
 
 # threading模块中Thread类的一个测试程序
 
 #我提交到我自己的GitHub仓库啦
+
+#在远程仓库被修改之后pull到本地 再次修改然后推到远程仓库
 
 import threading
 from time import sleep, ctime
