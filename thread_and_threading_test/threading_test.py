@@ -2,6 +2,8 @@
 
 # threading模块中Thread类的一个测试程序
 
+#我提交到我自己的GitHub仓库啦
+
 import threading
 from time import sleep, ctime
 
